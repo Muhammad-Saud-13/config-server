@@ -13,3 +13,7 @@ eureka:
 logging:
   level:
     com.example.DiscountCalculator: INFO
+
+my:
+  test:
+    property: "💸 Discount service config is working!"
